@@ -13,17 +13,6 @@ Requirements :
 4. Flask (Web App)
 
 
-
-```sh
-npm install my-crazy-module --save
-```
-
-Windows:
-
-```sh
-edit autoexec.bat
-```
-
 ## Usage example
 
 The current version of DoRoute only provides five shortest path algorithms, you can choose the algorithm by sending the parameters on the HTTP request.
@@ -138,9 +127,11 @@ AUTHOR
 4. Khalid Umar Saifullah
 
 CURRENT VERSION of DoRoute
+
 v1.0
 
 LEGAL CODE LICENSE
+
 [license][license]
 
 
