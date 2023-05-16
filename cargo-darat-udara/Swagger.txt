@@ -1,0 +1,18 @@
+Request Headers
+Content-Type: application/json
+User-Agent: PostmanRuntime/7.32.2
+Accept: */*
+Postman-Token: 56d6e452-abec-4fff-b3f3-71f1e7222dd0
+Host: localhost:8080
+Accept-Encoding: gzip, deflate, br
+Connection: keep-alive
+Content-Length: 35
+
+Request Body
+{
+    "org":344,
+    "des":188
+}
+
+Response 
+{"result":{"cost":39.0,"fullPath":["Kabupaten Pati","Kota Semarang","Kota Semarang","Kabupaten Sidoarjo","Kota Manado","Kota Manado","Kabupaten Kepulauan Sangihe"]},"status":{"responseCode":"200","responseDesc":"Success","responseMessage":"Sucsess operating algorithm"}}
